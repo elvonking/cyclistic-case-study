@@ -1,7 +1,7 @@
 ---
 title: "cyclistic case study"
 author: "Elvis Otwoma"
-date: "9/27/2022"
+date: "9/20/2022"
 output: github_document
 ---
 
